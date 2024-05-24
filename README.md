@@ -15,6 +15,6 @@ SSideMenu is available under the MIT license. See the LICENSE file for more info
 
 ## Other Libraries
 
-* [SNotificationCenter]([https://github.com/email2sunilverma/SNotificationCenter):- Notification and Observer design patern.
+* [SNotificationCenter](https://github.com/email2sunilverma/SNotificationCenter):- Notification and Observer design patern.
 * [SPopupMenu](https://github.com/email2sunilverma/SPopupMenu):- Simple UI for menu list with Text, Text with Icon, Multi Selection
   
